@@ -1,2 +1,2 @@
 # JavaScript_NodeSchool
-Check collaboration --->
+Also totally new info
