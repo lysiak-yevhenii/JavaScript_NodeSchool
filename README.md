@@ -1,2 +1,2 @@
 # JavaScript_NodeSchool
-Totally new text
+Also totally new info
